@@ -23,7 +23,7 @@
     "@emotion/styled": "^11.3.0",
     "@heroicons/react": "^1.0.1",
     "@mdx-js/react": "^1.6.21",
-    "@types/react": "^17.0.11",
+    "@types/react": "^17.0.47",
     "algoliasearch": "^4.9.1",
     "clsx": "^1.1.1",
     "intl-locales-supported": "^1.8.12",
